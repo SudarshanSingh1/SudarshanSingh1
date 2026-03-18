@@ -16,8 +16,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SudarshanSingh01&show_icons=true&locale=en&layout=compact" alt="SudarshanSingh01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SudarshanSingh01&show_icons=true&locale=en&layout=compact" alt="sudarshankushwaha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SudarshanSingh01&show_icons=true&locale=en" alt="SudarshanSingh01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudarshankushwaha&show_icons=true&locale=en" alt="sudarshankushwaha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SudarshanSingh01&" alt="SudarshanSingh01" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshankushwaha&" alt="sudarshankushwaha" /></p>
