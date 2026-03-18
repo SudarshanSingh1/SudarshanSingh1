@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SudarshanSingh01&show_icons=true&locale=en&layout=compact" alt="sudarshankushwaha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshankushwaha&show_icons=true&locale=en&layout=compact" alt="sudarshankushwaha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudarshankushwaha&show_icons=true&locale=en" alt="sudarshankushwaha" /></p>
 
