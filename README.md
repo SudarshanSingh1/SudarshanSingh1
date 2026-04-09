@@ -9,9 +9,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aanjaneya24&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Aanjaneya24?style=for-the-badge&color=blue&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Aanjaneya24?style=for-the-badge&color=yellow&label=Total+Stars" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=sudarshankushwaha&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/sudarshankushwaha?style=for-the-badge&color=blue&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/sudarshankushwaha?style=for-the-badge&color=yellow&label=Total+Stars" alt="Stars"/>
 </div>
 
 ---
@@ -41,7 +41,7 @@ Systems programming (C/C++), data structures & algorithms, operating systems int
 **Engineering Philosophy**  
 Write clean, maintainable code. Optimize for readability first, then performance. Build systems that scale. Test thoroughly. Document extensively.
 
-**Reach Me**: pandeyaanjaneya76@gmail.com
+**Reach Me**: sudarshankushwaha1435@gmail.com
 
 <br clear="both">
 
