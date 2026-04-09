@@ -200,7 +200,7 @@ graph LR
 
 <div align="center">
   
-[![Aanjaneya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aanjaneya24&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Aanjaneya24)
+[![Sudarshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudarshankushwaha&theme=tokyo-night&hide_border=true&area=true)](https://github.com/sudarshankushwaha)
 
 </div>
 
@@ -220,7 +220,7 @@ graph LR
   
 ### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-[![](https://visitcount.itsvg.in/api?id=Aanjaneya24&icon=6&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sudarshankushwaha&icon=6&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
