@@ -23,9 +23,9 @@ C++ systems programmer focused on low-latency architecture, performance optimiza
 
 **Technical Expertise**  
 **Systems Programming**: Memory management, multithreading, OS fundamentals, and network protocols
-**Backend Development**: Microservices architecture, database optimization, and API security
-**Full-Stack Engineering**: MERN stack development with focus on performance and scalability
-**Software Design**: Design patterns, clean architecture, SOLID principles, and code maintainability
+- **Backend Development**: Microservices architecture, database optimization, and API security
+- **Full-Stack Engineering**: MERN stack development with focus on performance and scalability
+- **Software Design**: Design patterns, clean architecture, SOLID principles, and code maintainability
 
 **Open to Collaborate On**  
 Open-source projects in distributed systems, backend infrastructure, developer tooling, CI/CD pipelines, performance-critical applications, and embedded software.
