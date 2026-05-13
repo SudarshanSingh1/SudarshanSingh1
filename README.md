@@ -19,7 +19,7 @@
 ### About Me:
 
 **What I Build**  
-Production-grade systems with emphasis on systems programming, backend architecture, and scalable solutions. Specializing in low-level C/C++ development, embedded systems (Zephyr RTOS), and high-performance backend services using Node.js/Express.
+C++ systems programmer focused on low-latency architecture, performance optimization, and scalable infrastructure, with Python for machine learning and quantitative development.
 
 **Technical Expertise**  
 - **Systems Programming**: Memory management, multithreading, OS fundamentals, and network protocols
