@@ -109,59 +109,6 @@ Write clean, maintainable code. Optimize for readability first, then performance
 
 ---
 
-## Engineering Expertise & Technical Focus
-
-<div align="center">
-
-### Systems Architecture & Design
-
-```mermaid
-graph LR
-    A[Low-Level Systems] -->|C/C++| B[OS & RTOS]
-    A -->|Memory Management| C[Performance]
-    D[Backend Engineering] -->|Node.js/Express| E[APIs]
-    D -->|Database Design| F[Scalability]
-    G[Full-Stack Dev] -->|MERN Stack| H[Production Apps]
-    B --> I[Embedded Systems]
-    E --> J[Microservices]
-    F --> K[Distributed Systems]
-```
-
-</div>
-
-### Technical Problem Solving
-
-<div align="center">
-
-| **Data Structures** | **Algorithms** | **System Design** | **Networking** |
-|:---:|:---:|:---:|:---:|
-| Trees, Graphs, Heaps | Dynamic Programming | Scalability Patterns | TCP/IP, HTTP/HTTPS |
-| Hash Tables, Tries | Graph Algorithms | Load Balancing | WebSockets, REST |
-| Linked Lists, Stacks | Sorting & Searching | Database Sharding | Network Protocols |
-| Queues, Deques | Greedy, Backtracking | Caching Strategies | Socket Programming |
-
-</div>
-
-### Development Philosophy
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│  Write Clean Code → Test Thoroughly → Optimize Smartly       │
-│  Measure Performance → Document Well → Iterate Continuously  │
-└──────────────────────────────────────────────────────────────┘
-```
-
-**Engineering Mantras:**
-- *"Premature optimization is the root of all evil, but measured optimization is engineering excellence"*
-- *"Code for humans, optimize for machines"*
-- *"Build systems that fail gracefully and recover automatically"*
-
-</div>
-
----
-
 ## Contribution Graph
 
 <div align="center">
