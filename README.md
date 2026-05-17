@@ -27,9 +27,6 @@ C++ systems programmer focused on low-latency architecture, performance optimiza
 - **Full-Stack Engineering**: MERN stack development with focus on performance and scalability
 - **Software Design**: Design patterns, clean architecture, SOLID principles, and code maintainability
 
-**Open to Collaborate On**  
-Open-source projects in distributed systems, backend infrastructure, developer tooling, CI/CD pipelines, performance-critical applications, and embedded software.
-
 **Currently Advancing In**  
 Distributed systems architecture, concurrent programming patterns, database internals, advanced algorithms, system design at scale, and cloud-native application development.
 
