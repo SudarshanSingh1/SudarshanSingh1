@@ -107,7 +107,7 @@ Understand the mathematics first. Build the logic clearly. Solve problems effici
 
 <div align="center">
 
-[![Sudarshan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudarshanSingh1&theme=tokyo-night&hide_border=true&area=true)](https://github.com/sudarshankushwaha)
+[![Sudarshan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudarshanSingh1&theme=tokyo-night&hide_border=true&area=true)](https://github.com/sudarshanSingh1)
 
 </div>
 
