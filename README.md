@@ -19,7 +19,7 @@
 ### About Me:
 
 **What I Build**  
-C++ systems programmer focused on low-latency architecture, performance optimization, and scalable infrastructure, with Python for machine learning and quantitative development.
+Mathematics-focused programmer with strong interests in mathematical modeling, algorithms, machine learning, and quantitative analysis, using C++ for high-performance computing and Python for data science and machine learning.
 
 **Technical Expertise**  
 **Systems Programming**: Memory management, multithreading, OS fundamentals, and network protocols
