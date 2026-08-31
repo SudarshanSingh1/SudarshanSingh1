@@ -107,10 +107,14 @@ Understand the mathematics first. Build the logic clearly. Solve problems effici
 
 <div align="center">
 
+<div align="center">
+
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=SudarshanSingh1&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="GitHub Stats"
+  src="https://streak-stats.demolab.com?user=SudarshanSingh1&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
 />
+
+</div>
 
 </div>
 ---
