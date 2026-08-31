@@ -4,7 +4,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Systems+Programmer;Full+Stack+Developer;Backend+Architect;Open+Source+Enthusiast;Building+Scalable+Solutions)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Mathematics;Machine+Learning;Quantitative+Thinking;Puzzle+Solver;Mental+Math;Mathematical+and+Quantitative+Models)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sudarshankushwaha&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
