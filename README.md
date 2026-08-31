@@ -106,9 +106,13 @@ Understand the mathematics first. Build the logic clearly. Solve problems effici
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarshanSingh1&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
-</div>
 
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=SudarshanSingh1&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Stats"
+/>
+
+</div>
 ---
 
 ## Random Quote
