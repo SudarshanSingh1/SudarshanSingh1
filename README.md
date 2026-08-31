@@ -9,8 +9,8 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=sudarshankushwaha&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/sudarshankushwaha?style=for-the-badge&color=blue&label=Followers" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/sudarshankushwaha?style=for-the-badge&color=yellow&label=Total+Stars" alt="Stars"/>
+<img src="https://img.shields.io/github/followers/sudarshanSingh1?style=for-the-badge&color=blue&label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/sudarshanSingh1?style=for-the-badge&color=yellow&label=Total+Stars" alt="Stars"/>
 
 </div>
 
