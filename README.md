@@ -6,7 +6,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Mathematics+%26+Algorithms;Machine+Learning;Quantitative+Thinking;Mathematical+Modeling;Problem+Solving+%26+Mental+Math" alt="Typing animation"/>
 
-  <br/>
+  <br/><br/>
 
   <img src="https://komarev.com/ghpvc/?username=SudarshanSingh1&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/SudarshanSingh1?style=for-the-badge&color=blue&label=Followers" alt="GitHub followers"/>
@@ -52,21 +52,21 @@ Understand the mathematics first. Build the logic clearly. Solve problems effici
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/sudarshan-kushwaha">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sudarshankushwaha1435@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://sudarshankushwaha.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://leetcode.com/u/sudarshankushwaha1/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://codeforces.com/profile/sudarshan001">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
+<a href="https://www.linkedin.com/in/sudarshan-kushwaha">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:sudarshankushwaha1435@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://sudarshankushwaha.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://leetcode.com/u/sudarshankushwaha1/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://codeforces.com/profile/sudarshan001">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
 
 </div>
 
@@ -82,9 +82,7 @@ Understand the mathematics first. Build the logic clearly. Solve problems effici
 
 ### Machine Learning & Data Science
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="TensorFlow, PyTorch, scikit-learn"/>
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,jupyter" alt="NumPy, Pandas, Matplotlib, Jupyter"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,jupyter" alt="Machine learning and data science tools"/>
 
 ### Mathematics & Quantitative Computing
 
@@ -103,9 +101,12 @@ Understand the mathematics first. Build the logic clearly. Solve problems effici
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SudarshanSingh1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudarshanSingh1&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<a href="https://github.com/SudarshanSingh1">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SudarshanSingh1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/SudarshanSingh1">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudarshanSingh1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+</a>
 
 </div>
 
@@ -115,9 +116,11 @@ Understand the mathematics first. Build the logic clearly. Solve problems effici
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SudarshanSingh1&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://streak-stats.demolab.com?user=SudarshanSingh1&theme=tokyonight&hide_border=true" width="100%" alt="GitHub contribution streak"/>
 
-  <img src="https://streak-stats.demolab.com?user=SudarshanSingh1&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak"/>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SudarshanSingh1&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
@@ -127,14 +130,14 @@ Understand the mathematics first. Build the logic clearly. Solve problems effici
 
 <div align="center">
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Inspirational quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Inspirational quote"/>
 
-  <br/><br/>
+<br/><br/>
 
-  **"Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding."**
+**"Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding."**
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee64ff,100:61d8e8&height=100&section=footer" width="100%" alt="Footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee64ff,100:61d8e8&height=100&section=footer" width="100%" alt="Gradient footer banner"/>
 </div>
