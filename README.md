@@ -8,7 +8,7 @@
   <br /><br />
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=SudarshanSingh1&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=SudarshanSingh1&style=for-the-badge&color=blueviolet" alt="Profile views badge" />
     <img src="https://img.shields.io/github/followers/SudarshanSingh1?style=for-the-badge&color=blue&label=Followers" alt="GitHub followers" />
     <img src="https://img.shields.io/github/stars/SudarshanSingh1?style=for-the-badge&color=yellow&label=Total%20Stars" alt="GitHub stars" />
   </p>
@@ -80,7 +80,9 @@ Understand the mathematics first. Build the logic clearly. Solve problems effici
 
 ### Machine Learning & Data Science
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,jupyter" alt="TensorFlow, PyTorch, scikit-learn, NumPy, pandas, Matplotlib, and Jupyter" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,jupyter&perline=7" alt="Machine Learning and Data Science tools: TensorFlow, PyTorch, scikit-learn, NumPy, pandas, Matplotlib, and Jupyter." />
+</p>
 
 ### Mathematics & Quantitative Computing
 
