@@ -117,7 +117,6 @@ Understand the mathematics first. Build the logic clearly. Solve problems effici
 </div>
 
 </div>
----
 
 ## Random Quote
 
