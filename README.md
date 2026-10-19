@@ -1,4 +1,4 @@
-what is the issue fix <div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SUDARSHAN%20SINGH&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
 
