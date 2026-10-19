@@ -127,11 +127,7 @@ Understand the mathematics first. Build the logic clearly. Solve problems effici
 
 </div>
 
----
 
-<div align="center">
-
-### "Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding."
 
 [![](https://visitcount.itsvg.in/api?id=sudarshankushwaha&icon=6&color=6)](https://visitcount.itsvg.in)
 
